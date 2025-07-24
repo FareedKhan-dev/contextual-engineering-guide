@@ -18,7 +18,7 @@ Context engineering means creating the right setup for an AI before giving it a 
 
 In this blog, we will explore how **LangChain** and **LangGraph** two powerful tools for building AI agents, RAG apps, and LLM apps can be used to implement **contextual engineering** effectively to improve our AI Agents.
 
-All the code is available in this GitHub Repo:
+This guide is created on top of [langgchain ai](https://github.com/FareedKhan-dev/contextual-engineering-guide) guide.
 
 ---
 
